@@ -1,6 +1,6 @@
 Name     : golang-github-google-gofuzz
 Version  : fd52762d25a41827db7ef64c43756fd4b9f7e382
-Release  : 2
+Release  : 3
 URL      : https://github.com/google/gofuzz/archive/fd52762d25a41827db7ef64c43756fd4b9f7e382.tar.gz
 Source0  : https://github.com/google/gofuzz/archive/fd52762d25a41827db7ef64c43756fd4b9f7e382.tar.gz
 Summary  : No detailed summary available
